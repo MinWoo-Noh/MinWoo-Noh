@@ -5,13 +5,9 @@
 
 * email : redalsdn7@naver.com
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinWoo-Noh&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinWoo-Noh&theme=vue) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinWoo-Noh&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinWoo-Noh&theme=default)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinWoo-Noh&theme=default)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinWoo-Noh&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinWoo-Noh&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinWoo-Noh&theme=default)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinWoo-Noh&theme=default)
 
