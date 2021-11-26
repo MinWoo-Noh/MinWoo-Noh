@@ -5,10 +5,9 @@
 
 * email : redalsdn7@naver.com
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinWoo-Noh&theme=vue) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinWoo-Noh&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinWoo-Noh&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinWoo-Noh&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinWoo-Noh&theme=vue)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinWoo-Noh&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinWoo-Noh&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinWoo-Noh&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinWoo-Noh&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinWoo-Noh&theme=default)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinWoo-Noh&show_icons=true&theme=radical) -->
 <!--
