@@ -4,8 +4,20 @@
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 
-🪄 Blog 🪄
 
+<!-- SNS 링크 --> 
+<h3>🪄 Blog & SNS 🪄 </h3>
+    <p>
+      <a href="https://bangu4.tistory.com/">
+         <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://https://velog.io/@mincodin/"/>
+      </a>&nbsp
+      <a href="https://www.instagram.com/bangu4/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/minu._.09/"/>
+      <!--
+      <a href="https://www.linkedin.com/in/h43ro/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/h43ro/"/>
+      </a>-->
+    </p>
 [![Tech Blog](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@mincodin) 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinWoo-Noh&theme=vue)
