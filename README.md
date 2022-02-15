@@ -7,6 +7,7 @@
 
 <!-- SNS 링크 --> 
 <h3>🪄 Blog & SNS 🪄 </h3>
+
     <p>
       <a href="https://bangu4.tistory.com/">
          <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://https://velog.io/@mincodin/"/>
@@ -17,13 +18,18 @@
       <a href="https://www.linkedin.com/in/h43ro/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/h43ro/"/>
       </a>-->
-    </p>
+    </p>  
 <!-- [![Tech Blog](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@mincodin)  -->
+
+
+
 
 <!-- 랭크, 스킬 -->
 | <a href="https://bangbangu4.github.io" target='_blank'><img align="center" src="https://github-readme-stats.vercel.app/api?username=MinWoo-Noh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://MinWoo-Noh.github.io" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinWoo-Noh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
  
+ 
+
 <!-- 깃 커밋 빈도  -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinWoo-Noh&theme=vue)
 
