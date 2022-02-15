@@ -7,7 +7,6 @@
 
 <!-- SNS 링크 --> 
 <h3>🪄 Blog & SNS 🪄 </h3>
-
     <p>
       <a href="https://bangu4.tistory.com/">
          <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://https://velog.io/@mincodin/"/>
