@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/h43ro/"/>
       </a>-->
     </p>
-[![Tech Blog](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@mincodin) 
+<!-- [![Tech Blog](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@mincodin)  -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinWoo-Noh&theme=vue)
 
