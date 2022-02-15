@@ -11,7 +11,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinWoo-Noh&theme=vue)
 
 
-| <a href="https://bangbangu4.github.io" target='_blank'><img align="center" src="https://github-readme-stats.vercel.app/api?username=MinWoo-Noh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://MinWoo-Noh.github.io" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangbangu4&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://bangbangu4.github.io" target='_blank'><img align="center" src="https://github-readme-stats.vercel.app/api?username=MinWoo-Noh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://MinWoo-Noh.github.io" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinWoo-Noh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinWoo-Noh&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinWoo-Noh&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinWoo-Noh&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinWoo-Noh&theme=vue) -->
