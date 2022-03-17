@@ -21,7 +21,7 @@
 <h3>✔️ Blog & SNS </h3>
     <p>
       <a href="https://bangu4.tistory.com/">
-         <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://https://velog.io/@mincodin/"/>
+         <img src="https://https://velog.io/@mincodin%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://https://velog.io/@mincodin/"/>
       </a>&nbsp
       <a href="https://www.instagram.com/bangu4/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/minu._.09/"/>
@@ -34,10 +34,11 @@
 <h3>✔️ 스터디</h3>
 <ul>
 <!--   <li>💯 <b>백준만점 스터디</b> 2022. 02 ~ ing</li> -->
-  <li>📚 <b>프로젝트 스터디</b> 2021. 09 ~ 2021.10/ 2022.02 ~ ing </li>
+  <li>📚 <b>Android with kotlin</b> 2022. 04 ~ ing </li>
   <li>🌐 <b>Java 스터디</b> 2022. 02 ~ ing </li>
+  <li>🎯 <b>Kotlin 스터디</b> 2022. 03 ~ ing </li>
   <li>🏆 <b>알고리즘 스터디</b> 2022. 03 ~ ing </li>
-  <li>📝 <b>Android kotlin 스터디</b> 2022. 03 ~ ing </li>
+<!--   <li>📝 <b>Android kotlin 스터디</b> 2022. 03 ~ ing </li> -->
 </ul>
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinWoo-Noh&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinWoo-Noh&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinWoo-Noh&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinWoo-Noh&theme=vue) -->
