@@ -61,3 +61,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="right">
+   <img src="https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/>
+   </p>
+<!--  
+
+<p align="right">
+   <img src="https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Swift-ffac45?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white"/>
+</p>
+-->
