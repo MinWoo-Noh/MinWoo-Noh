@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="right">
+<p align="left">
    <img src="https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/>
