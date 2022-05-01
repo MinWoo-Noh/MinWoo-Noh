@@ -36,8 +36,8 @@
 
   <li>📚 <b>Android with kotlin 스터디 </b> 2022. 04 ~ ing </li>
   <li>🎯 <b>Kotlin 스터디</b> 2022. 04.10 ~ ing </li>
-<!--   <li>📘 <b>알고리즘 스터디</b> 2022. 04.16 ~ ing </li>
-  <li>📝 <b>CS(OS,컴구) 스터디</b> 2022. 04.16 ~ ing </li> -->
+  <li>📘 <b>알고리즘 스터디</b> 2022. 04.16 ~ ing </li>
+  <li>📝 <b>CS(OS,컴구) 스터디</b> 2022. 04.16 ~ ing </li>
  <!--   <li>🌐 <b>Java 나 홀로스터디</b> 2022. 02 ~ ing </li> -->
  <!--   <li>💯 <b>백준만점 스터디</b> 2022. 02 ~ ing</li> -->
 <!--   <li>📝 <b>Android kotlin 스터디</b> 2022. 03 ~ ing </li> -->
