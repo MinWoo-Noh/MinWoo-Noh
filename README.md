@@ -63,9 +63,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="right">
-   <img src="https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=Kotlin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-   <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+   <img src="https://img.shields.io/badge/Kotlin-A97BFF?style=flat-the-badge&logo=Kotlin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+   <img src="https://img.shields.io/badge/Java-b07219?style=flat-the-badge&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-the-badge&logo=Android-Studio&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+   </br>
    <img src="https://img.shields.io/badge/Swift-D22128?style=flat-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Xcode-FF9900?style=flat-the-badge&logo=Xcode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/SwiftUI-FF9900?style=flat-the-badge&logo=SwiftUI&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
