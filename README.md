@@ -31,9 +31,9 @@
       </a>-->
     </p>  
  
-<h3>✔️ 스터디</h3>
+<!-- <h3>✔️ 스터디</h3> -->
 <ul>
-
+<!-- <li>📚 <b> Swift5 </b> 2022. 11 ~ 2023. 02 ing </li> -->
  <!-- <li>📚 <b>Android with kotlin Project </b> 2022. 06.29 ~ ing(목표 : 7월 3일) </li>? -->
 <!--   <li>🎯 <b>Kotlin 스터디</b> 2022. 04.10 ~ ing </li> -->
 <!--   <li>📘 <b>알고리즘 이론&실습 </b> 2022. 05.28 ~ stop </li> -->
@@ -63,10 +63,14 @@ Here are some ideas to get you started:
 -->
 
 <p align="right">
-   <img src="https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Kotlin-A97BFF?style=flat-square&logo=Kotlin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+   <img src="https://img.shields.io/badge/Swift-D22128?style=for-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Xcode-FF9900?style=for-the-badge&logo=Xcode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/SwiftUI-FF9900?style=for-the-badge&logo=SwiftUI&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
    </p>
+   
 <!--  
 
 <p align="right">
