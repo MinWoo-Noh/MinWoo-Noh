@@ -21,10 +21,10 @@
 <h3>✔️ Blog & SNS </h3>
     <p>
       <a href="https://velog.io/@mincodin/">
-         <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://https://velog.io/@mincodin/"/>
+         <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-the-badge&logo=Vimeo&logoColor=white&link=https://https://velog.io/@mincodin/"/>
       </a>&nbsp
       <a href="https://www.instagram.com/minu._.09/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/minu._.09/"/>
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/minu._.09/"/>
       <!--
       <a href="https://www.linkedin.com/in/h43ro/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/h43ro/"/>
