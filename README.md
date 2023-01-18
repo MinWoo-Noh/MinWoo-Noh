@@ -53,11 +53,11 @@
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinWoo-Noh&theme=vue) -->
 
 <!-- SNS 링크 --> 
-<!-- <h3>✔️ Blog & SNS </h3>
-    <p>
+<!-- <h3>✔️ Blog & SNS </h3> -->
+<!--     <p>
       <a href="https://velog.io/@mincodin/">
          <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-the-badge&logo=Vimeo&logoColor=white&link=https://https://velog.io/@mincodin/"/>
-      </a>&nbsp -->
+      </a>&nbsp
      <a href="https://www.instagram.com/minu._.09/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/minu._.09/"/> -->
 
@@ -108,7 +108,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/SwiftUI-FF9900?style=flat-the-badge&logo=SwiftUI&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
    </p> -->
 <!-- 스킨아이콘  -->
- 
  
 <!--  
 
