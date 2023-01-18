@@ -4,6 +4,11 @@
 <!-- [🫧 PORTFOLIO](https://dev-moon.notion.site/) -->
 </br>
  
+ #### Allen School 16nd
+- iOS Developer
+- 2022.12 - 2023.02
+
+
 <!--###  👋 -->
 
 <!-- <h3> 🪄 skills 🪄 </h3>
@@ -53,14 +58,14 @@
       <a href="https://velog.io/@mincodin/">
          <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-the-badge&logo=Vimeo&logoColor=white&link=https://https://velog.io/@mincodin/"/>
       </a>&nbsp -->
-<!--       <a href="https://www.instagram.com/minu._.09/">
+     <a href="https://www.instagram.com/minu._.09/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/minu._.09/"/> -->
-      <!--
+
       <a href="https://www.linkedin.com/in/h43ro/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/h43ro/"/>
-      </a>-->
-    </p>  
- 
+      </a>
+    </p> -->
+
 <!-- <h3>✔️ 스터디</h3> -->
 <ul>
 <!-- <li>📚 <b> Swift5 </b> 2022. 11 ~ 2023. 02 ing </li> -->
