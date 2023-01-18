@@ -1,3 +1,9 @@
+# 노민우 MinWoo Noh 
+
+#### ✉︎ redalsdn7@naver.com  |
+<!-- [🫧 PORTFOLIO](https://dev-moon.notion.site/) -->
+</br>
+ 
 <!--###  👋 -->
 
 <!-- <h3> 🪄 skills 🪄 </h3>
@@ -7,25 +13,46 @@
 
 
 <!-- [![Tech Blog](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@mincodin)  -->
-
+<!-- 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20!%20I%20am%20Minwoo%20Noh%20:\)%20&fontSize=70)
-</br>
+</br> -->
 
 <!-- 랭크, 스킬 -->
 | <a href="https://bangbangu4.github.io" target='_blank'><img align="center" src="https://github-readme-stats.vercel.app/api?username=MinWoo-Noh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://MinWoo-Noh.github.io" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinWoo-Noh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
  
  
+</br></br></br>
+<!-- ios, seift, github -->
+<div>
+  <img alt="apple" src ="https://img.shields.io/badge/iOS-FFFFFF?&style=for-the-badge&logo=Apple&logoColor=black"/>  
+ <img alt="swift" src ="https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/> 
+ <img alt="github" src ="https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+ <br/>
+<!-- 큰 아이콘  -->
+  <div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="82" height="82" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="82" height="82" />
+ </div>
+ <sub>created by <a href="https://github.com/qkrdmstlr3/techstack-generator" target="_blank">https://github.com/qkrdmstlr3/techstack-generator</a></sub>
+</div>
+
+<!-- 아이콘 git -->
+<br/>
+<a href="https://hits.seeyoufarm.com">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fday2on&count_bg=%23B0B0B0&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=welcome:)&edge_flat=true"/>
+</a>
+
 
 <!-- 깃 커밋 빈도  -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinWoo-Noh&theme=vue)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinWoo-Noh&theme=vue) -->
 
 <!-- SNS 링크 --> 
-<h3>✔️ Blog & SNS </h3>
+<!-- <h3>✔️ Blog & SNS </h3>
     <p>
       <a href="https://velog.io/@mincodin/">
          <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-the-badge&logo=Vimeo&logoColor=white&link=https://https://velog.io/@mincodin/"/>
-      </a>&nbsp
+      </a>&nbsp -->
 <!--       <a href="https://www.instagram.com/minu._.09/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/minu._.09/"/> -->
       <!--
@@ -65,7 +92,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="right">
+<!-- 스킬 아이콘  -->
+<!-- <p align="right">
    <img src="https://img.shields.io/badge/Kotlin-A97BFF?style=flat-the-badge&logo=Kotlin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
    <img src="https://img.shields.io/badge/Java-b07219?style=flat-the-badge&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-the-badge&logo=Android-Studio&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -73,8 +101,10 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Swift-D22128?style=flat-the-badge&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Xcode-FF9900?style=flat-the-badge&logo=Xcode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/SwiftUI-FF9900?style=flat-the-badge&logo=SwiftUI&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-   </p>
-   
+   </p> -->
+<!-- 스킨아이콘  -->
+ 
+ 
 <!--  
 
 <p align="right">
