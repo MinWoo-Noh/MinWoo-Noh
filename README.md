@@ -1,10 +1,10 @@
 # 노민우 MinWoo Noh 
 
-#### ✉︎ redalsdn7@naver.com  |
-<!-- [🫧 PORTFOLIO](https://dev-moon.notion.site/) -->
+#### ✉︎ redalsdn7@naver.com  
+<!--| [🫧 PORTFOLIO](https://dev-moon.notion.site/) -->
 </br>
  
- #### Allen School 16nd
+#### Allen School 16nd
 - iOS Developer
 - 2022.12 - 2023.02
 
@@ -23,8 +23,8 @@
 </br> -->
 
 <!-- 랭크, 스킬 -->
-| <a href="https://bangbangu4.github.io" target='_blank'><img align="center" src="https://github-readme-stats.vercel.app/api?username=MinWoo-Noh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://MinWoo-Noh.github.io" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinWoo-Noh&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- | <a href="https://bangbangu4.github.io" target='_blank'><img align="center" src="https://github-readme-stats.vercel.app/api?username=MinWoo-Noh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://MinWoo-Noh.github.io" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinWoo-Noh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | -->
  
  
 </br></br></br>
@@ -33,6 +33,8 @@
   <img alt="apple" src ="https://img.shields.io/badge/iOS-FFFFFF?&style=for-the-badge&logo=Apple&logoColor=black"/>  
  <img alt="swift" src ="https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/> 
  <img alt="github" src ="https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+ 
+ 
  <br/>
 <!-- 큰 아이콘  -->
   <div style="display: flex; align-items: flex-start;">
@@ -53,18 +55,18 @@
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinWoo-Noh&theme=vue) -->
 
 <!-- SNS 링크 --> 
-<!-- <h3>✔️ Blog & SNS </h3> -->
-<!--     <p>
-      <a href="https://velog.io/@mincodin/">
-         <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-the-badge&logo=Vimeo&logoColor=white&link=https://https://velog.io/@mincodin/"/>
-      </a>&nbsp
-     <a href="https://www.instagram.com/minu._.09/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/minu._.09/"/> -->
+<!-- <h3>✔️ Blog & SNS </h3>
+  <p>
+ <a href="https://velog.io/@mincodin/">
+          <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-the-badge&logo=Vimeo&logoColor=white&link=https://https://velog.io/@mincodin/"/>
+       </a>&nbsp
+      <a href="https://www.instagram.com/minu._.09/">
+         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/minu._.09/"/>
 
-      <a href="https://www.linkedin.com/in/h43ro/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/h43ro/"/>
-      </a>
-    </p> -->
+       <a href="https://www.linkedin.com/in/h43ro/">
+         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/h43ro/"/>
+       </a>
+ </p> -->
 
 <!-- <h3>✔️ 스터디</h3> -->
 <ul>
