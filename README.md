@@ -1,6 +1,6 @@
 # 노민우 MinWoo Noh 
 
-#### ✉︎ redalsdn7@naver.com | [🫧 instagram](https://www.instagram.com/minu._.09/)  
+#### ✉︎ redalsdn7@naver.com | [🫧 velog](https://velog.io/@mincodin)  
 <!--| [🫧 PORTFOLIO](https://dev-moon.notion.site/) -->
 </br>
  
