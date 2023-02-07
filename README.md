@@ -9,6 +9,7 @@
 - iOS Developer
 - 2022.12 - 2023.02
 
+</br></br>
 
 <!-- ios, seift, github -->
 <div>
@@ -17,7 +18,7 @@
     <img alt="github" src ="https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
 <br/>
 
-</br></br></br>
+</br></br>
 
 <!-- 큰 아이콘  -->
 <div style="display: flex; align-items: flex-start;">
