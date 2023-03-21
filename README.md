@@ -10,7 +10,17 @@
 - 2022.12 - 2023.02
 
 </br></br>
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansek217)](https://solved.ac/ansek217) -->
+    
+<!-- [![solved.ac](http://mazandi.herokuapp.com/api?handle=ansek217&theme=dark)](https://solved.ac/ansek217/) -->
+    
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayo2n)](https://github.com/anuraghazra/github-readme-stats) -->
 
+</br></br></br></br>
+<sub> <a href="https://itminco.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFFFFF?&style=for-the-badge&logo=Tistory&logoColor=black"/></a></sub>
+
+<!--  <sub> <a href="https://velog.io/@mincodin/series" target="_blank"><img alt="Velog" src ="https://img.shields.io/badge/Velog-254d41?&style=for-the-badge&logo=Velog&logoColor=#20C997"/></a></sub> -->
+ 
 <!-- ios, seift, github -->
 <div>
     <img alt="apple" src ="https://img.shields.io/badge/iOS-FFFFFF?&style=for-the-badge&logo=Apple&logoColor=black"/>  
