@@ -1,14 +1,22 @@
 # 노민우 MinWoo Noh 
-
-#### ✉︎ redalsdn7@naver.com | [🫧 instagram](https://www.instagram.com/iamminuco/)
+<!--
+#### ✉︎ redalsdn7@naver.com 
+<!-- | [🫧 instagram](https://www.instagram.com/iamminuco/) -->
 <!-- [🫧 velog](https://velog.io/@mincodin)   -->
 <!--| [🫧 PORTFOLIO](https://dev-moon.notion.site/) -->
 </br>
- 
-#### Allen School 16nd
+
+<!-- 
+ #### Allen School 16nd 
 - iOS Developer
 - 2022.12 - 2023.02
+-->
 
+<!--
+####  Skills 
+<img src="https://img.shields.io/badge/Swift-494949?style=flat-square&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/iOS-494949?style=flat-square&logo=iOS&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-494949?style=flat-square&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/Figma-494949?style=flat-square&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Git-494949?style=flat-square&logo=Git&logoColor=white">
+<br/>
+-->
 </br></br>
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansek217)](https://solved.ac/ansek217) -->
     
