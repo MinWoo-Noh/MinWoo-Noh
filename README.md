@@ -30,9 +30,10 @@
  
 <!-- ios, seift, github -->
 <div>
-    <img alt="apple" src ="https://img.shields.io/badge/iOS-FFFFFF?&style=for-the-badge&logo=Apple&logoColor=black"/>  
+<!--     <img alt="apple" src ="https://img.shields.io/badge/iOS-FFFFFF?&style=for-the-badge&logo=Apple&logoColor=black"/>  
     <img alt="swift" src ="https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/> 
-    <img alt="github" src ="https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+    <img alt="github" src ="https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=Github&logoColor=white"/> -->
+ <img src="https://img.shields.io/badge/Swift-494949?style=flat-square&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/iOS-494949?style=flat-square&logo=iOS&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-494949?style=flat-square&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/Figma-494949?style=flat-square&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Git-494949?style=flat-square&logo=Git&logoColor=white">
 <br/>
 
 </br></br>
