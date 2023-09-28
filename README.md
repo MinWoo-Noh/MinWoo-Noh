@@ -1,4 +1,4 @@
-# 노민우 MinWoo Noh 
+# MinWoo Noh 
 <!--
 #### ✉︎ redalsdn7@naver.com 
 <!-- | [🫧 instagram](https://www.instagram.com/iamminuco/) -->
